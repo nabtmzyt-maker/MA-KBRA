@@ -8,5 +8,4 @@ urllib3==2.1.0
 flask==3.0.0
 requests==2.31.0
 google==3.0.0
-protobuf_decoder==1.0.1
 cachetools==5.3.1
